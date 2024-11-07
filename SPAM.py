@@ -1,0 +1,2 @@
+def printTwise():
+     print ("spam")
